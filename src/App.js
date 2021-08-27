@@ -64,7 +64,7 @@ function App() {
   return (
     <div className="App">
       <ThemeProvider theme={theme}>
-      {/* <CustomBtn txt="Hello world"/> */}
+      {/* <CustomBtn txt="Hello world/> */}
         <NavBar/>
         <div className={classes.wrapper}>
           <Typography variant="h4" className={classes.bigSpace} color="primary">
